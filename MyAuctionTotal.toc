@@ -1,8 +1,8 @@
 ## Title: MyAuctionTotal
-## Interface: 70200
+## Interface: 70300
 ## Author: Elennight
 ## Notes: Shows the total of your auction buyouts in the auction window.
-## Version: 1.0.0
+## Version: 1.0.1
 
 embeds.xml
 
